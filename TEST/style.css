@@ -1,0 +1,12 @@
+.navbar{
+    height: 10vh;
+    font-size: larger;
+    color: black;
+}
+.container-fluid{
+    text-align: center;
+    color: black;
+}
+.nav-item{
+    color: black;
+}
